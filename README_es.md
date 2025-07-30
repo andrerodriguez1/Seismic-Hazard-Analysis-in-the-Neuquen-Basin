@@ -40,7 +40,5 @@ El objetivo de este proyecto es estimar la peligrosidad sísmica en la Cuenca Ne
 
 Se generaron mapas de peligrosidad sísmica para un período de retorno de 475 años (equivalente a una probabilidad de excedencia del 10% en 50 años). A continuación se muestra una imagen representativa:
 
-> 📌 *Reemplazá con una imagen real de la carpeta `Images/`*
 
-```markdown
-`Images/PGA.png`*
+<img width="1642" height="2048" alt="PGA" src="https://github.com/user-attachments/assets/395690d9-098e-4ae4-b663-1175ff0c1a8a" />
