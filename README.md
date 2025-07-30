@@ -14,7 +14,7 @@ The goal of this project is to estimate the seismic hazard in the Neuquén Basin
 
 - `seismic_hazard.ipynb`: Main notebook with catalog processing, zoning, recurrence analysis, and hazard calculation.
 - `Catalogs/`: Contains raw and processed earthquake catalogs.
-- `Imagenes/`: Figures and hazard maps used in the notebook and paper.
+- `Images/`: Figures and hazard maps used in the notebook and paper.
 - `README.md`: Project description and documentation.
 - `Seismic Hazard Analysis.docx`: Full research paper including methodology, figures, and results.
 
