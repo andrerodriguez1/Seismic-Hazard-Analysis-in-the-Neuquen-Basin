@@ -43,4 +43,4 @@ Se generaron mapas de peligrosidad sísmica para un período de retorno de 475 a
 > 📌 *Reemplazá con una imagen real de la carpeta `Images/`*
 
 ```markdown
-![Mapa PGA](Images/PGA.png)
+Images/PGA.png
