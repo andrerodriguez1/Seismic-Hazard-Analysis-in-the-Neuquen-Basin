@@ -1,4 +1,4 @@
-# Seismic Hazard Analysis in the Neuquén Basin, Argentina
+# Seismic Hazard Analysis in the Neuquen Basin, Argentina
 
 This repository contains a Jupyter Notebook that reproduces the seismic hazard analysis carried out in the Neuquén Basin region, Argentina. The study is based on the methodology and results presented in the research paper:
 
